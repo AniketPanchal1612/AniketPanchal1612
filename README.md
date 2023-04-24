@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Panchal</h1>
-<h3 align="center">A passionate Web developer and spent time to solve DSA Problemt</h3>
+<h3 align="center">A passionate Web developer and spend time to solve DSA Problemt</h3>
 
 
 
